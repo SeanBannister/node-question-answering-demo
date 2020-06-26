@@ -1,0 +1,15 @@
+{
+  "name": "es-module-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^2.0.1",
+    "question-answering": "^2.0.1"
+  }
+}
